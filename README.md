@@ -14,7 +14,8 @@
 
 A new features to improve user satisfaction, business efficiency and planning
 
----
+## Stages
+
 - [ ] Business Analysis
 - [ ] Design
 - [ ] Backend
