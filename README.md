@@ -15,7 +15,7 @@
 A new features to improve user satisfaction, business efficiency and planning
 
 ---
-- [.] Business Analysis
+- [ ] Business Analysis
 - [ ] Design
 - [ ] Backend
 - [ ] Frontend
