@@ -15,17 +15,12 @@
 A new features to improve user satisfaction, business efficiency and planning
 
 ---
-[/] Business Analysis
-
-[ ] Design
-
-[ ] Backend
-
-[ ] Frontend
-
-[ ] DevOps
-
-[ ] Testing
+- [/] Business Analysis
+- [ ] Design
+- [ ] Backend
+- [ ] Frontend
+- [ ] DevOps
+- [ ] Testing
 
 ---
 [IT-Марафон 2026: розробка проєкту з AI](https://campus.epam.ua/ua/event/191)
